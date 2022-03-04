@@ -6,7 +6,7 @@
   "manifest_version": 2,
   "permissions": ["storage", "tabs", "webNavigation"],
   "background": {
-    "scripts": ["browser-polyfill.min.js", "util.js", "background.js"]
+    "scripts": ["util.js", "background.js"]
   },
   "icons": {
     "60": "icons/ic.svg"
